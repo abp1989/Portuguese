@@ -1,0 +1,73 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP1.png" group-title="Canais Portugal",RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTP 2" tvg-logo="RTP2.png" group-title="Canais Portugal",RTP 2  
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png",RTP ACORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png",RTP AFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png",RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTP MEMORIA" tvg-logo="RTP MEMORIA.png" group-title="Canais Portugal",RTP MEMORIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-logo="RTP INTERNACIONAL" group-title="Canais Portugal", RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+
+#EXTINF:-1, SIC
+http://213.13.26.7:1936/live/_definst_/sic/playlist.m3u8
+
+#EXTINF:-1, SIC (HQ)
+http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
+
+#EXTINF:-1, SIC MULHER
+rtmp://149.255.39.2/youcloud/ playpath=sicmulher8f2d?keys=e4Yr1a2P8umZnV-TnVKyvQ&keyt=1427557348 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf pageUrl=http://youcloud.tv/player?streamname=sicmulher8f2d
+
+#EXTINF:-1, TVI (HQ)
+http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
+
+#EXTINF:-1, TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tcv.png" group-title=PORTUGAL,TV CABO VERDE
+http://213.13.26.12:1935/live/rtc_teste/magellan.m3u8
+
+#EXTINF:-1,SPORT TV AMERICAS
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+ 
+#EXTINF:-1,SPORT TV AMERICAS (stream 2)
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+
+#EXTINF:-1,SPORTTV 1
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
+
+#EXTINF:-1,SPORTTV 2
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
+
+#EXTINF:-1,BENFICA TV 1
+http://ak-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
+
+#EXTINF:-1,BENFICA TV 2
+http://sec102.gr.nimitv.net/psh_gr2/sport_21/chunklist.m3u8?etime=20150301115159&hash=00babf673e669ceabca7a
+
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="etv_pt.png",Economico TV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="Euronews.png" group-title=PORTUGAL,EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png",SIC NOTICIAS
+http://213.13.26.7:1936/live/_definst_/sicnoticias/playlist.m3u8
+
+#EXTINF:-1, TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
+
+#EXTINF:-1 tvg-id="RTP INFORMAÇAO" tvg-logo="RTP InformaçAo.png" group-title="Canais Portugal",RTP INFORMACAO
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
