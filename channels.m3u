@@ -27,9 +27,6 @@ http://213.13.26.7:1936/live/_definst_/sic/playlist.m3u8
 #EXTINF:-1, SIC (HQ)
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
 
-#EXTINF:-1, SIC MULHER
-rtmp://149.255.39.2/youcloud/ playpath=sicmulher8f2d?keys=e4Yr1a2P8umZnV-TnVKyvQ&keyt=1427557348 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf pageUrl=http://youcloud.tv/player?streamname=sicmulher8f2d
-
 #EXTINF:-1, TVI (HQ)
 http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
 
@@ -41,12 +38,6 @@ http://213.13.26.12:1935/live/rtc_teste/magellan.m3u8
 
 #EXTINF:-1,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
- 
-#EXTINF:-1,SPORT TV AMERICAS (stream 2)
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-
-#EXTINF:-1,SPORTTV 2
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
 
 #EXTINF:-1,BENFICA TV 1
 http://ak-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
