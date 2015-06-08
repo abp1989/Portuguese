@@ -66,5 +66,5 @@ http://213.13.26.7:1936/live/_definst_/sicnoticias/playlist.m3u8
 #EXTINF:-1, TVI 24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
 
-#EXTINF:-1 tvg-id="RTP INFORMAÇAO" tvg-logo="RTP InformaçAo.png" group-title="Canais Portugal",RTP INFORMACAO
+#EXTINF:-1,RTP INFORMACAO
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
