@@ -68,3 +68,6 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/
 
 #EXTINF:0,REDE TV
 rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
+
+#EXTINF:-1, GOLTV
+http://94.23.117.92:8000/live/sonia/sonia/356.ts
