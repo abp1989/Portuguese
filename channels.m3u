@@ -24,14 +24,8 @@ http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.str
 #EXTINF:-1, SIC
 http://213.13.26.7:1936/live/_definst_/sic/playlist.m3u8
 
-#EXTINF:-1, SIC (HQ)
-http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
-
-#EXTINF:-1, TVI (HQ)
-http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
-
 #EXTINF:-1, TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
 
 #EXTINF:-1,TV CABO VERDE
 http://213.13.26.12:1935/live/rtc_teste/magellan.m3u8
@@ -44,18 +38,6 @@ http://ak-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/c
 
 #EXTINF:-1,BENFICA TV 2
 http://sec102.gr.nimitv.net/psh_gr2/sport_21/chunklist.m3u8?etime=20150301115159&hash=00babf673e669ceabca7a
-
-#EXTINF:0,beIN 10
-http://5.189.140.216:2025/ABOUDA/ALSERSAWY_STREAM/20.ch
-
-#EXTINF:0,beIN 1
-http://5.189.140.216:2025/ABOUDA/ALSERSAWY_STREAM/11.ch
-
-#EXTINF:0,bein 4
-http://5.189.140.216:2025/ABOUDA/ALSERSAWY_STREAM/124.ch
-
-#EXTINF:0,bein 5
-http://5.189.140.216:2025/ABOUDA/ALSERSAWY_STREAM/125.ch
 
 #EXTINF:-1,Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
