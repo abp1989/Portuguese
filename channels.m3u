@@ -30,6 +30,15 @@ http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
 #EXTINF:-1,TV CABO VERDE
 http://213.13.26.12:1935/live/rtc_teste/magellan.m3u8
 
+#EXTINF:-1,BEIN SPORT 1
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib1/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORT 2
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib2/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORT 3
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib3/playlist.m3u8
+
 #EXTINF:-1,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
