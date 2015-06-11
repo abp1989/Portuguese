@@ -48,8 +48,8 @@ http://ak-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/c
 #EXTINF:-1,BENFICA TV 2
 http://sec102.gr.nimitv.net/psh_gr2/sport_21/chunklist.m3u8?etime=20150301115159&hash=00babf673e669ceabca7a
 
-#EXTINF:-1, GOLTV
-http://94.23.117.92:8000/live/sonia/sonia/356.ts
+#EXTINF:-1, GoLTV
+http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8
 
 #EXTINF:-1,Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
