@@ -42,6 +42,21 @@ http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib3/playlist.m3u8
 #EXTINF:-1,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
+#EXTINF:0,SPORT TV 1 HD
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/8.ts
+
+#EXTINF:0,SPORT TV 2
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/9.ts
+
+#EXTINF:0,SPORT TV 3
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/10.ts
+
+#EXTINF:0,SPORT TV 4
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/11.ts
+
+#EXTINF:0,SPORT TV 5
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/12.ts
+
 #EXTINF:-1,BENFICA TV 1
 http://ak-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
 
@@ -83,9 +98,6 @@ http://62.210.89.38:1935/liverepeat/comedy913/comedy913/live.m3u8
 
 #EXTINF:-1,Discovery Civilization
 http://62.210.83.180:1935/liverepeat/discivil377/discivil377/live.m3u8
-
-#EXTINF:-1,Amazon-Sat
-http://livela.sambatech.com.br:80/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8
 
 #EXTINF:-1,Nat Geo Wild-ESPANHA
 http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
