@@ -96,17 +96,53 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b8
 #EXTINF:-1,RTP INFORMACAO
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
 
-#EXTINF:0,REDE TV
+#EXTINF:-1,TV RECORD (BRA)
+http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
+
+#EXTINF:-1,TV RECORD NEWS (BRA)
+rtmp://flash.midiaip.com.br/recordnewses/recordnewses
+
+#EXTINF:-1,SBT (BRA)
+rtmp://192.99.46.182/pioneira-tv//pioneira-tv
+
+#EXTINF:-1,TERRA NOTICIAS (BRA)
+http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8?BRASILIPTV
+
+#EXTINF:-1,TV APARECIDA (BRA)
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
+
+#EXTINF:-1,CANAL RURAL (BRA)
+http://7149o.ls.azioncdn.net:1935/7149o/canal_rural.sdp/live.m3u8
+
+#EXTINF:-1,CANAL ESCOLA (BRA)
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+
+#EXTINF:-1,MEGA TV (BRA)
+rtmp://rtmp.cdn.upx.net.br/00135_4/myStream.sdp
+
+#EXTINF:-1,TV GAZETA (BRA)
+http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
+
+#EXTINF:0,REDE TV (BRA)
 rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
 
-#EXTINF:0,RECORD - Espirito Santo
+#EXTINF:0,RECORD - Espirito Santo (BRA)
 http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8?b?b*t$
 
-#EXTINF:-1,Comedy Central Brazil
+#EXTINF:-1,Comedy Central (BRA)
 http://62.210.89.38:1935/liverepeat/comedy913/comedy913/live.m3u8
 
-#EXTINF:-1,Discovery Civilization
+#EXTINF:-1,Discovery Civilization (BRA)
 http://62.210.83.180:1935/liverepeat/discivil377/discivil377/live.m3u8
 
-#EXTINF:-1,Nat Geo Wild-ESPANHA
+#EXTINF:-1,ANTENA 3(ESP)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1,LA SEXTA (ESP)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1,DISCOVERY (ESP)
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,Nat Geo Wild (ESP)
 http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
