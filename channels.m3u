@@ -42,21 +42,6 @@ http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib3/playlist.m3u8
 #EXTINF:-1,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
-#EXTINF:0,SPORT TV 1 HD
-http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/8.ts
-
-#EXTINF:0,SPORT TV 2
-http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/9.ts
-
-#EXTINF:0,SPORT TV 3
-http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/10.ts
-
-#EXTINF:0,SPORT TV 4
-http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/11.ts
-
-#EXTINF:0,SPORT TV 5
-http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/12.ts
-
 #EXTINF:-1,BENFICA TV 1
 http://ak-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
 
@@ -71,15 +56,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebas
 
 #EXTINF:-1,SPORTSNET 360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-
-#EXTINF:-1,ESPN 2
-http://142.4.216.60:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722&xs=_we_NWhkMTlrd3hlZjViNTlvfDE0MjAxNTk3MjJ8NzIuMjcuMjE0LjMzfDU0YTU1ZTRhMzc3YjN8MDUyOGQ2Njg0MGJmNjRkMWY5MzIxN2QzOTljOTUwYTJmYjE5MmM5Zg
-
-#EXTINF:-1,ESPN HD
-http://142.4.216.60:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934&xs=_we_amJnNngwYnowcXRheWhjfDE0MTk5MTU5MzR8NzIuMjcuMjE0LjMzfDU0YTFhNWZlNDBlZWJ8ZTk1OGYxM2U5MjFmOGNmYWYwZDU4ZTk4ZDczY2JhNzFjODJlOGJkNw
-
-#EXTINF:-1,ESPN 3 HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndCZsYW49Mg==&f=.m3u8
 
 #EXTINF:-1,Economico TV
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
@@ -116,9 +92,6 @@ http://7149o.ls.azioncdn.net:1935/7149o/canal_rural.sdp/live.m3u8
 
 #EXTINF:-1,CANAL ESCOLA (BRA)
 http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
-
-#EXTINF:-1,MEGA TV (BRA)
-rtmp://rtmp.cdn.upx.net.br/00135_4/myStream.sdp
 
 #EXTINF:-1,TV GAZETA (BRA)
 http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
