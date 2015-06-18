@@ -155,3 +155,74 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 
 #EXTINF:-1,Nat Geo Wild (ESP)
 http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,TEST
+
+#EXTINF:-1,RTP 1
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/1.ts
+
+#EXTINF:-1,RTP 2
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/2.ts
+
+#EXTINF:-1,SIC
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/3.ts
+
+#EXTINF:-1,TVI
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/4.ts
+
+#EXTINF:-1,TVI 24
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/6.ts
+
+#EXTINF:-1,SIC NOTICIAS
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/5.ts
+
+#EXTINF:-1,PANDA
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/9.ts
+
+#EXTINF:-1,DISNEY JUNIOR
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/10.ts
+
+#EXTINF:-1,DISNEY
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/11.ts
+
+#EXTINF:-1,TV RECORD PORTUGAL
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/7.ts
+
+#EXTINF:-1,TV GLOBO PORTUGAL
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/8.ts
+
+#EXTINF:-1,SPORT TV 1 SD
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/12.ts
+
+#EXTINF:-1,SPORT TV 2 SD
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/13.ts
+
+#EXTINF:-1,SPORT TV 3 SD
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/14.ts
+
+#EXTINF:-1,SPORT TV 4 SD
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/15.ts
+
+#EXTINF:-1,SPORT TV 5 SD
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/16.ts
+
+#EXTINF:-1,BENFICA TV 1 SD
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/18.ts
+
+#EXTINF:-1,BENFICA TV 2 SD
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/19.ts
+
+#EXTINF:-1,SPORTING TV SD
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/17.ts
+
+#EXTINF:-1,TVCINE 1
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/20.ts
+
+#EXTINF:-1,TVCINE 2
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/21.ts
+
+#EXTINF:-1,TVCINE 3
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/22.ts
+
+#EXTINF:-1,TVCINE 4
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/23.ts
