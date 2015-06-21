@@ -1,97 +1,61 @@
 #EXTM3U
 
 #EXTINF:-1,RTP 1
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/1.ts
+
+#EXTINF:-1,RTP 2
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/2.ts
+
+#EXTINF:-1,SIC
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/3.ts
+
+#EXTINF:-1,TVI
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/4.ts
+
+#EXTINF:-1,SIC NOTICIAS
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/5.ts
+
+#EXTINF:-1,TV RECORD PORTUGAL
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/7.ts
+
+#EXTINF:-1,TV GLOBO PORTUGAL
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/8.ts
+
+#EXTINF:-1,BENFICA TV 1 SD
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/18.ts
+
+#EXTINF:-1,BENFICA TV 2 SD
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/19.ts
+
+#EXTINF:-1,SPORTING TV SD
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/17.ts
+
+#EXTINF:-1,TVCINE 1
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/20.ts
+
+#EXTINF:-1,TVCINE 2
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/21.ts
+
+#EXTINF:-1,TVCINE 3
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/22.ts
+
+#EXTINF:-1,TVCINE 4
+http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/23.ts
+
+#EXTINF:-1,RTP 1
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 
 #EXTINF:-1,RTP 2  
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
 
-#EXTINF:-1,RTP ACORES
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1,RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u
 
-#EXTINF:-1,RTP AFRICA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-#EXTINF:-1,RTP MADEIRA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-#EXTINF:-1,RTP MEMORIA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
-
-#EXTINF:-1, RTP INTERNACIONAL
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
-
-#EXTINF:-1, SIC
-http://213.13.26.7:1936/live/_definst_/sic/playlist.m3u8
-
-#EXTINF:-1, TVI
+#EXTINF:-1,TVI
 http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
 
-#EXTINF:-1,TV CABO VERDE
-http://213.13.26.12:1935/live/rtc_teste/magellan.m3u8
-
-#EXTINF:13,BEINSPORTS 3HD
-http://176.53.21.99:8082/TV4003
-
-#EXTINF:13,BEINSPORTS 4HD
-http://176.53.21.99:8082/TV4004
-
-#EXTINF:13,BEINSPORTS 5HD
-http://176.53.21.99:8082/TV4005
-
-#EXTINF:13,BEINSPORTS 6HD
-http://176.53.21.99:8082/TV4006
-
-#EXTINF:13,BEINSPORTS 7HD
-http://176.53.21.99:8082/TV4007
-
-#EXTINF:13,BEINSPORTS 8HD
-http://176.53.21.99:8082/TV4008
-
-#EXTINF:13,BEINSPORTS 9HD
-http://176.53.21.99:8082/TV4009
-
-#EXTINF:13,BEINSPORTS 10HD
-http://176.53.21.99:8082/TV4010
-
-#EXTINF:13,BEINSPORTS 11HD
-http://176.53.21.99:8082/TV4011
-
-#EXTINF:13,BEINSPORTS 12HD
-http://176.53.21.99:8082/TV4012
-
-#EXTINF:13,BEINSPORTS 13HD
-http://176.53.21.99:8082/TV4013
-
-#EXTINF:13,BEINSPORTS 14HD
-http://176.53.21.99:8082/TV4014
-
-#EXTINF:-1,BEIN SPORT 1
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib1/playlist.m3u8
-
-#EXTINF:-1,BEIN SPORT 2
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib2/playlist.m3u8
-
-#EXTINF:-1,BEIN SPORT 3
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib3/playlist.m3u8
-
-#EXTINF:-1,SPORT TV AMERICAS
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
-
-#EXTINF:-1,BENFICA TV 1
-http://ak-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
-
-#EXTINF:-1,BENFICA TV 2
-http://sec102.gr.nimitv.net/psh_gr2/sport_21/chunklist.m3u8?etime=20150301115159&hash=00babf673e669ceabca7a
-
-#EXTINF:-1, GoLTV
-http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8
-
-#EXTINF:-1,Real Madrid Tv
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,SPORTSNET 360
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1,RTP INFORMACAO
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
 
 #EXTINF:-1,Economico TV
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
@@ -102,11 +66,14 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 #EXTINF:-1,SIC NOTICIAS
 http://213.13.26.7:1936/live/_definst_/sicnoticias/playlist.m3u8
 
-#EXTINF:-1, TVI 24
+#EXTINF:-1,TVI 24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
 
-#EXTINF:-1,RTP INFORMACAO
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+#EXTINF:-1,SPORT TV AMERICAS
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+
+#EXTINF:-1,SPORTSNET 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 
 #EXTINF:-1,TV RECORD (BRA)
 http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
@@ -147,80 +114,5 @@ http://62.210.83.180:1935/liverepeat/discivil377/discivil377/live.m3u8
 #EXTINF:-1,ANTENA 3(ESP)
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 
-#EXTINF:-1,LA SEXTA (ESP)
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-
-#EXTINF:-1,DISCOVERY (ESP)
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1,Nat Geo Wild (ESP)
 http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,RTP 1
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/1.ts
-
-#EXTINF:-1,RTP 2
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/2.ts
-
-#EXTINF:-1,SIC
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/3.ts
-
-#EXTINF:-1,TVI
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/4.ts
-
-#EXTINF:-1,TVI 24
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/6.ts
-
-#EXTINF:-1,SIC NOTICIAS
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/5.ts
-
-#EXTINF:-1,PANDA
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/9.ts
-
-#EXTINF:-1,DISNEY JUNIOR
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/10.ts
-
-#EXTINF:-1,DISNEY
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/11.ts
-
-#EXTINF:-1,TV RECORD PORTUGAL
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/7.ts
-
-#EXTINF:-1,TV GLOBO PORTUGAL
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/8.ts
-
-#EXTINF:-1,SPORT TV 1 SD
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/12.ts
-
-#EXTINF:-1,SPORT TV 2 SD
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/13.ts
-
-#EXTINF:-1,SPORT TV 3 SD
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/14.ts
-
-#EXTINF:-1,SPORT TV 4 SD
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/15.ts
-
-#EXTINF:-1,SPORT TV 5 SD
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/16.ts
-
-#EXTINF:-1,BENFICA TV 1 SD
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/18.ts
-
-#EXTINF:-1,BENFICA TV 2 SD
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/19.ts
-
-#EXTINF:-1,SPORTING TV SD
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/17.ts
-
-#EXTINF:-1,TVCINE 1
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/20.ts
-
-#EXTINF:-1,TVCINE 2
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/21.ts
-
-#EXTINF:-1,TVCINE 3
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/22.ts
-
-#EXTINF:-1,TVCINE 4
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/23.ts
