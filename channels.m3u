@@ -7,10 +7,10 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlis
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
 
 #EXTINF:0,RTP INTERNACIONAL
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u
+http://198.179.31.198/live/303.low.stream/303.low.stream/index.m3u8
 
 #EXTINF:0,TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
 #EXTINF:0,SIC
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
