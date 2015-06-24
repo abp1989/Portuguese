@@ -30,21 +30,6 @@ http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:0,EURONEWS
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
-#EXTINF:0,SPORT TV 1
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/17.ts
-
-#EXTINF:0,SPORT TV 1
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/23.ts
-
-#EXTINF:o,SPORT TV 3
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/20.ts
-
-#EXTINF:0,SPORT TV 4
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/21.ts
-
-#EXTINF:0,SPORT TV 5
-http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/22.ts
-
 #EXTINF:0,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
