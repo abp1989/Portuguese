@@ -36,13 +36,13 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 #EXTINF:0,SPORT TV 4
 http://iptv4.is-certified.com:8000/live/sozdar/trialwx/1712.ts
 
-#EXTINF:0, Sport-tv 1
+#EXTINF:0,Sport-tv 1
 http://iptv4.is-certified.com:8000/live/sozdar/trialwx/1714.ts
 
-#EXTINF:0, Sport-tv 1
+#EXTINF:0,Sport 1
 http://iptv4.is-certified.com:8000/live/sozdar/trialwx/1716.ts
 
-#EXTINF:0, Sport Futball 
+#EXTINF:0,Sport Futball 
 http://iptv4.is-certified.com:8000/live/sozdar/trialwx/1717.ts
 
 #EXTINF:0,REAL MADRID TV (ESP)
@@ -57,9 +57,6 @@ http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad
 #EXTINF:0,MOTORS TV
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=02
 
-#EXTINF:0,LIVE SPORT (CARS)
-mms://100automoto.tv/100livesport
-
 #EXTINF:0,MOTORSPORT (USA)
 http://motorsport.hopto.org:8081/
 
@@ -68,9 +65,6 @@ http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
 
 #EXTINF:0,TV RECORD NEWS (BRA)
 rtmp://flash.midiaip.com.br/recordnewses/recordnewses
-
-#EXTINF:0,SBT (BRA)
-rtmp://192.99.46.182/pioneira-tv//pioneira-tv
 
 #EXTINF:0,TERRA NOTICIAS (BRA)
 http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8?BRASILIPTV
@@ -93,14 +87,5 @@ rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
 #EXTINF:0,RECORD - Espirito Santo (BRA)
 http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8?b?b*t$
 
-#EXTINF:0,Comedy Central (BRA)
-http://62.210.89.38:1935/liverepeat/comedy913/comedy913/live.m3u8
-
-#EXTINF:0,Discovery Civilization (BRA)
-http://62.210.83.180:1935/liverepeat/discivil377/discivil377/live.m3u8
-
 #EXTINF:0,ANTENA 3(ESP)
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-
-#EXTINF:0,Nat Geo Wild (ESP)
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
