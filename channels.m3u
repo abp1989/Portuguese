@@ -33,6 +33,27 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 #EXTINF:0,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
+#EXTINF:0, Benfica TV 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3309.ts
+
+#EXTINF:0, Benfica TV 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3308.ts
+
+#EXTINF:0, SporTV 5
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3225.ts
+
+#EXTINF:0, SporTV 4
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3224.ts
+
+#EXTINF:0, SporTV 3
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3223.ts
+
+#EXTINF:0, SporTV 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3222.ts
+
+#EXTINF:0, SporTV 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3221.ts
+
 #EXTINF:0,REAL MADRID TV (ESP)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
