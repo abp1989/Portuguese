@@ -51,27 +51,6 @@ http://bit.ly/1HUM5kg
 #EXTINF:0,REAL MADRID TV (ESP)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0, Benfica TV 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3309.ts
-
-#EXTINF:0, Benfica TV 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3308.ts
-
-#EXTINF:0, SporTV 5
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3225.ts
-
-#EXTINF:0, SporTV 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3224.ts
-
-#EXTINF:0, SporTV 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3223.ts
-
-#EXTINF:0, SporTV 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3222.ts
-
-#EXTINF:0, SporTV 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3221.ts
-
 #EXTINF:0,beIN1 (ARB)
 http://91.109.20.227:8080/TV0801 
 
