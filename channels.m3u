@@ -33,6 +33,21 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 #EXTINF:0,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
+#EXTINF:0,SPORT TV PORTUGAL 1
+http://bit.ly/1U28Fgu
+
+#EXTINF:0,SPORT TV PORTUGAL 2
+http://bit.ly/1MRHjW6
+
+#EXTINF:0,SPORT TV PORTUGAL 3
+http://bit.ly/1JpyrIj
+
+#EXTINF:0,SPORT TV PORTUGAL 4
+http://bit.ly/1etuyVV
+
+#EXTINF:0,SPORT TV PORTUGAL 5
+http://bit.ly/1HUM5kg
+
 #EXTINF:0,REAL MADRID TV (ESP)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
