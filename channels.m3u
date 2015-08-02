@@ -36,6 +36,102 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 #EXTINF:0,REAL MADRID TV (ESP)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:0, Benfica TV 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3309.ts
+
+#EXTINF:0, Benfica TV 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3308.ts
+
+#EXTINF:0, SporTV 5
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3225.ts
+
+#EXTINF:0, SporTV 4
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3224.ts
+
+#EXTINF:0, SporTV 3
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3223.ts
+
+#EXTINF:0, SporTV 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3222.ts
+
+#EXTINF:0, SporTV 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3221.ts
+
+#EXTINF:0,beIN1 (ARB)
+http://91.109.20.227:8080/TV0801 
+
+#EXTINF:0,beIN2 (ARB)
+http://91.109.20.227:8080/TV0802 
+
+#EXTINF:0,beIN3 (ARB)
+http://91.109.20.227:8080/TV0803  
+
+#EXTINF:0,beIN5 (ARB)
+http://91.109.20.227:8080/TV0805 
+
+#EXTINF:0,OSN sport1 hd
+http://185.27.237.105:8082/TV0104
+
+#EXTINF:0,FOX SPORT USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/66.m3u8
+
+#EXTINF:0,SPORT USA1
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/68.m3u8
+
+#EXTINF:0,NBC GOLF USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/67.m3u8
+
+#EXTINF:0,SPORT USA2
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/69.m3u8
+
+#EXTINF:0,NBA USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/70.m3u8
+
+#EXTINF:0,NBC SPORT
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/73.m3u8
+
+#EXTINF:0,CANAL+FOTBALL
+http://bit.ly/1MRHy3s
+
+#EXTINF:0,BEIN SPORT 1 (FR)
+http://bit.ly/1D1Z6tS
+
+#EXTINF:0,BEIN SPORT 2 (FR)
+http://bit.ly/1VIVMcV
+
+#EXTINF:0,SUPER SPORT HD1
+http://bit.ly/1h7ph8k
+
+#EXTINF:0,SUPER SPORT HD3
+http://bit.ly/1I3WTgh
+
+#EXTINF:0,SUPER SPORT HD4
+http://bit.ly/1LSLeDl
+
+#EXTINF:-1,ESPN UK
+rtsp://deu.smoothstreams.tv:2935/view/ch17q1.stream?u=1249&p=Lg.TAaVMii
+
+#EXTINF:-1,Sports Night HD
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+
+#EXTINF:-1, Sky Sports 1
+rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky1 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=10
+
+ #EXTINF:0,LIVERPOOL TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
+
+#EXTINF:0,CHELSEA TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
+
+#EXTINF:0,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,BAR«A TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/102.m3u8
+
+#EXTINF:0,TVA Sport CANADA
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+
 #EXTINF:0,SPORT1 (HOL)
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
 
