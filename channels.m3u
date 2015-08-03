@@ -96,24 +96,6 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 #EXTINF:0,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
-#EXTINF:0,SPORT TV PORTUGAL1
-http://bit.ly/1U28Fgu
-
-#EXTINF:0,SPORT TV PORTUGAL2
-http://bit.ly/1MRHjW6
-
-#EXTINF:0,SPORT TV PORTUGAL3
-http://bit.ly/1JpyrIj
-
-#EXTINF:0,SPORT TV PORTUGAL 4
-http://bit.ly/1etuyVV
-
-#EXTINF:0,SPORT TV PORTUGAL5
-http://bit.ly/1HUM5kg
-
-#EXTINF:0,REAL MADRID TV (ESP)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:0,LIVERPOOL TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 
@@ -123,7 +105,7 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
 #EXTINF:0,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0,BAR«A TV
+#EXTINF:0,BARCA TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/102.m3u8
 
 #EXTINF:0,TVA Sport CANADA
