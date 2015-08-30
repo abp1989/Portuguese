@@ -1,16 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1,PT: TVCine 1
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/209.ch
+#EXTINF:-1,PT: benfica tv 1
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/207.ch
 
-#EXTINF:-1,PT: Tvcine 2
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/210.ch
+#EXTINF:-1,PT: benfica tv 2
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/213.ch
 
-#EXTINF:-1,PT: TVCine 3
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/211.ch
+#EXTINF:-1,PT: Sport.TV 1
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/202.ch
 
-#EXTINF:-1,PT: tvcine 4
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/212.ch
+#EXTINF:-1,PT: Sport.TV 2
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/203.ch
+
+#EXTINF:-1,PT: Sport Tv 3
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/204.ch
+
+#EXTINF:-1,PT: SPORT TV 4
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/205.ch
+
+#EXTINF:-1,PT: Sport Tv 5
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/206.ch
+
+#EXTINF:-1,PT: Sporting TV
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/208.ch
 
 #EXTINF:-1,PT:opt:Sport TV 1
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/229.ch
@@ -26,6 +38,18 @@ http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotm
 
 #EXTINF:-1,PT:opt:Sport TV 5
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/233.ch
+
+#EXTINF:-1,PT: TVCine 1
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/209.ch
+
+#EXTINF:-1,PT: Tvcine 2
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/210.ch
+
+#EXTINF:-1,PT: TVCine 3
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/211.ch
+
+#EXTINF:-1,PT: tvcine 4
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/212.ch
 
 #EXTINF:-1,PT:RTP 1
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/225.ch
@@ -48,12 +72,6 @@ http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotm
 #EXTINF:-1,PT: AXN *
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1653.ch
 
-#EXTINF:-1,PT: benfica tv 1
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/207.ch
-
-#EXTINF:-1,PT: benfica tv 2
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/213.ch
-
 #EXTINF:-1,PT: Discovery Case *
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1650.ch
 
@@ -65,24 +83,6 @@ http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotm
 
 #EXTINF:-1,PT: MOV *
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1648.ch
-
-#EXTINF:-1,PT: sport tv 3
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/204.ch
-
-#EXTINF:-1,PT: SPORT TV 4
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/205.ch
-
-#EXTINF:-1,PT: sport tv5
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/206.ch
-
-#EXTINF:-1,PT: Sport.TV1
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/202.ch
-
-#EXTINF:-1,PT: Sport.TV2
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/203.ch
-
-#EXTINF:-1,PT: Sporting TV
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/208.ch
 
 #EXTINF:-1,PT: Syfy *
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1649.ch
