@@ -1,75 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,PT:TV SERIES HD
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2920.ts
-
-#EXTINF:-1,PT:Sic
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/227.ts
-
-#EXTINF:-1,PT:Fox Life HD
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1650.ts
-
-#EXTINF:-1,PT:Discovery ShowCase HD
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/736.ts
-
-#EXTINF:-1,PT:AXN BLACK HD
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2919.ts
-
-#EXTINF:-1,PT: MOV *
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1648.ts
-
-#EXTINF:-1,PT- TVI FICÇAO
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2718.ts
-
-#EXTINF:-1,PT- PORTO CANAL
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2706.ts
-
-#EXTINF:-1,PT- NACIONAL GEO
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2719.ts
-
-#EXTINF:-1,PT- Hollywood
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2715.ts
-
-#EXTINF:-1,PT- FX
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2711.ts
-
-#EXTINF:-1,PT- EUROSPORT 2
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2708.ts
-
-#EXTINF:-1,PT- EUROSPORT
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2707.ts
-
-#EXTINF:-1,PT- DISNEY CHANEL
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2714.ts
-
-#EXTINF:-1,PT- DISCOVERY
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2716.ts
-
-#EXTINF:-1,PT- CINE MUNDO
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2709.ts
-
-#EXTINF:-1,PT- CANAL PANDA
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2713.ts
-
-#EXTINF:-1,PT- AXN WHITE
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2712.ts
-
-#EXTINF:-1,PT- AMC
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2717.ts
-
-#EXTINF:-1,BR:Woohoo
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/3064.ts
-
-#EXTINF:-1,BR:TV RECORD
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2918.ts
-
-#EXTINF:-1,BR:PFC
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/3028.ts
-
-#EXTINF:-1,BR:GLOBO
-http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2917.ts
-
-
 #EXTINF:0,RTP 1
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 
@@ -81,6 +11,15 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b8
 
 #EXTINF:0,RTP INFORMACAO
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+
+#EXTINF:-1,BR:Woohoo
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/3064.ts
+
+#EXTINF:-1,BR:TV RECORD
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2918.ts
+
+#EXTINF:-1,BR:GLOBO
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2917.ts
 
 #EXTINF:-1,PT: Benfica tv 1
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/207.ch
@@ -133,6 +72,12 @@ http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotm
 #EXTINF:-1,PT: tvcine 4
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/212.ch
 
+#EXTINF:-1,PT: FOX Movies *
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1647.ts
+
+#EXTINF:-1,PT: Sporting TV
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/208.ts
+
 #EXTINF:-1,PT:RTP 1
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/225.ch
 
@@ -147,6 +92,21 @@ http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotm
 
 #EXTINF:-1,PT: Niclelodeon
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1646.ch
+
+#EXTINF:-1,PT: AXN
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1653.ts
+
+#EXTINF:-1,PT: 24Kitchen *
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1651.ts
+
+#EXTINF:-1,PT- Hollywood
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2715.ts
+
+#EXTINF:-1,PT- TVI FICÇAO
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2718.ts
+
+#EXTINF:-1,PT- PORTO CANAL
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2706.ts
 
 #EXTINF:-1,PT: 24Kitchen *
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1651.ch
@@ -177,6 +137,30 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 
 #EXTINF:0,ANTENA 3(ESP)
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1,PT- EUROSPORT 2
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2708.ts
+
+#EXTINF:-1,PT- EUROSPORT
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2707.ts
+
+#EXTINF:-1,PT- DISNEY CHANEL
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2714.ts
+
+#EXTINF:-1,PT- DISCOVERY
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2716.ts
+
+#EXTINF:-1,PT- CINE MUNDO
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2709.ts
+
+#EXTINF:-1,PT:Fox Life HD
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1650.ts
+
+#EXTINF:-1,PT:Discovery ShowCase HD
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/736.ts
+
+#EXTINF:-1,PT:AXN BLACK HD
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2919.ts
 
 #EXTINF:-1,PT: MOV *
 http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1648.ch
