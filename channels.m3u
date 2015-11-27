@@ -1,28 +1,66 @@
 #EXTM3U
 
-#EXTINF:-1,SPORT TV AMÉRICAS
+#EXTINF:0,SPORT TV 1
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/902.m3u8
+
+#EXTINF:0,SPORT TV 2
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/903.m3u8
+
+#EXTINF:0,SPORT TV AMÉRICAS
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:0,RTP 1
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:0,RTP 2  
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:0,TVI 24
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
-#EXTINF:0,RTP INFORMACAO
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
-#EXTINF:0, RTP 1
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
-#EXTINF:0,RTP 2
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
-#EXTINF:0,RTP AÇORES
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
-#EXTINF:0,RTP ÁFRICA
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
-#EXTINF:0,RTP INFORMAÇÃO
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+
+#EXTINF:0,SPORT TV AMÉRICAS
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+
+#EXTINF:0,WIN SPORTS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+
+#EXTINF:0,Sports 1 (RUSS)
+http://91.234.211.133:8012/PlusFutbol
+
+#EXTINF:0,Sports 2 (RUSS)
+http://iptv5.zargacum.net/iptv/C3E78FQF6K/530/index.m3u8
+
+#EXTINF:0,Sports 3 (RUSS)
+http://iptv5.zargacum.net/iptv/C3E78FQF6K/522/index.m3u8
+
+#EXTINF:0,M4 SPORT (HUNG)
+http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
+
 #EXTINF:0,RTP INTERNACIONAL
 http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
-#EXTINF:0,RTP MADEIRA
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira_5ch1016h264H14.stream/livestream.m3u8
-#EXTINF:0,RTP MEMÓRIA
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+
+#EXTINF:0,RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+
+#EXTINF:0, RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
+
+#EXTINF:0,RTP 2  
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+
+#EXTINF:0,RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
+
+#EXTINF:0,RTP 3
+http://wownet.ro/str/0510.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:0,SIC (HQ)
+http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
+
+#EXTINF:0,SIC
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+
+#EXTINF:0,SIC NOTICIAS
+http://213.13.26.7:1936/live/_definst_/sicnoticias/playlist.m3u8
+
+#EXTINF:0,TVI (HQ)
+http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
+
+#EXTINF:0,TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+#EXTINF:0,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
+
+
